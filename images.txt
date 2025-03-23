@@ -1,4 +1,1 @@
-vllm/vllm-openai:v0.8.1
-ghcr.io/open-webui/open-webui:v0.5.20
-ollama/ollama:0.6.2
-nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
+gpustack/gpustack:main
