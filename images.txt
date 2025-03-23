@@ -1,1 +1,1 @@
-sysctl vm.max_map_count
+gpustack/gpustack:v0.5.1
