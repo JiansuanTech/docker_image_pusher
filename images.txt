@@ -1,1 +1,1 @@
-gpustack/gpustack:v0.5.1
+vllm/vllm_openai:v0.8.2
