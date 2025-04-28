@@ -1,2 +1,1 @@
-dataelement/bisheng-frontend:v1.2.0.dev1
-dataelement/bisheng-backend:v1.2.0.dev1
+vllm/vllm-openai:v0.8.5
