@@ -1,1 +1,2 @@
-ghcr.io/open-webui/open-webui:v0.6.9
+ghcr.io/open-webui/open-webui:v0.6.10
+openmmlab/lmdeploy:v0.8.0-cu12
