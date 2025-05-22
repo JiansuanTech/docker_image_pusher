@@ -1,2 +1,1 @@
-ghcr.io/open-webui/open-webui:v0.6.10
-openmmlab/lmdeploy:v0.8.0-cu12
+docker.all-hands.dev/all-hands-ai/runtime:0.38-nikolaik
