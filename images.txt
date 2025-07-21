@@ -1,4 +1,4 @@
-ghcr.io/open-webui/open-webui:v0.6.16
+ghcr.io/open-webui/open-webui:v0.6.18
 # louislam/dockge:1
 # hexdolemonai/lemon-runtime-sandbox:latest
 # hexdolemonai/lemon:latest
