@@ -2,4 +2,5 @@
 # louislam/dockge:1
 # hexdolemonai/lemon-runtime-sandbox:latest
 # hexdolemonai/lemon:latest
-vllm/vllm-openai:v0.10.0
+# vllm/vllm-openai:v0.10.0
+ghcr.io/ggml-org/llama.cpp:full-cuda
