@@ -3,6 +3,7 @@
 # hexdolemonai/lemon-runtime-sandbox:latest
 # hexdolemonai/lemon:latest
 # vllm/vllm-openai:v0.10.0
+lmsysorg/sglang:v0.4.10
 # ghcr.io/ggml-org/llama.cpp:full-cuda
 # ghcr.io/ggml-org/llama.cpp:server-cuda
-nvidia/cuda:12.8.1-devel-ubuntu24.04
+# nvidia/cuda:12.8.1-devel-ubuntu24.04
