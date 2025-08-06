@@ -2,8 +2,8 @@
 # louislam/dockge:1
 # hexdolemonai/lemon-runtime-sandbox:latest
 # hexdolemonai/lemon:latest
-vllm/vllm-openai:gptoss
+# vllm/vllm-openai:gptoss
 # lmsysorg/sglang:v0.4.10.post1-cu126
 # ghcr.io/ggml-org/llama.cpp:full-cuda
-# ghcr.io/ggml-org/llama.cpp:server-cuda
+ghcr.io/ggml-org/llama.cpp:server-cuda
 # nvidia/cuda:12.8.1-devel-ubuntu24.04
