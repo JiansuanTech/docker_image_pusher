@@ -1,4 +1,4 @@
-# ghcr.io/open-webui/open-webui:v0.6.18
+ghcr.io/open-webui/open-webui:v0.6.22
 # louislam/dockge:1
 # hexdolemonai/lemon-runtime-sandbox:latest
 # hexdolemonai/lemon:latest
@@ -7,5 +7,5 @@
 # ghcr.io/ggml-org/llama.cpp:full-cuda
 # ghcr.io/ggml-org/llama.cpp:server-cuda
 # nvidia/cuda:12.8.1-devel-ubuntu24.04
-dataelement/bisheng-backend:v2.0.0
-dataelement/bisheng-frontend:v2.0.0
+# dataelement/bisheng-backend:v2.0.0
+# dataelement/bisheng-frontend:v2.0.0
