@@ -4,6 +4,7 @@
 # hexdolemonai/lemon:latest
 # vllm/vllm-openai:v0.10.1
 # lmsysorg/sglang:v0.4.10.post1-cu126
+lmsysorg/sglang:dev
 # ghcr.io/ggml-org/llama.cpp:full-cuda
 # ghcr.io/ggml-org/llama.cpp:server-cuda
 # nvidia/cuda:12.8.1-devel-ubuntu24.04
@@ -17,4 +18,4 @@
 # jumpserver/lion:v4.10.7-ce
 # jumpserver/chen:v4.10.7-ce
 # jumpserver/web:v4.10.7-ce
-openmmlab/lmdeploy:v0.10.0-cu12
+# openmmlab/lmdeploy:v0.10.0-cu12
