@@ -1,4 +1,4 @@
-ghcr.io/open-webui/open-webui:v0.6.33
+# ghcr.io/open-webui/open-webui:v0.6.33
 # louislam/dockge:1
 # hexdolemonai/lemon-runtime-sandbox:latest
 # hexdolemonai/lemon:latest
@@ -19,3 +19,4 @@ ghcr.io/open-webui/open-webui:v0.6.33
 # jumpserver/chen:v4.10.7-ce
 # jumpserver/web:v4.10.7-ce
 # openmmlab/lmdeploy:v0.10.0-cu12
+registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
