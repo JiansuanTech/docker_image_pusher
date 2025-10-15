@@ -2,12 +2,13 @@
 # louislam/dockge:1
 # hexdolemonai/lemon-runtime-sandbox:latest
 # hexdolemonai/lemon:latest
-vllm/vllm-openai:v0.11.0
+# vllm/vllm-openai:v0.11.0
 # lmsysorg/sglang:v0.4.10.post1-cu126
 # lmsysorg/sglang:dev
 # ghcr.io/ggml-org/llama.cpp:full-cuda
 # ghcr.io/ggml-org/llama.cpp:server-cuda
 # nvidia/cuda:12.8.1-devel-ubuntu24.04
+nvidia/cuda:12.1.0-devel-ubuntu22.04
 # dataelement/bisheng-backend:v2.0.2
 # dataelement/bisheng-frontend:v2.0.2
 # yanwk/comfyui-boot:cu126-megapak-20250818
