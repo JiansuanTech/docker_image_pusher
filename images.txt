@@ -11,7 +11,7 @@
 # nvidia/cuda:12.1.0-devel-ubuntu22.04
 # dataelement/bisheng-backend:v2.0.2
 # dataelement/bisheng-frontend:v2.0.2
-yanwk/comfyui-boot:cu128-megapak-20251027
+# yanwk/comfyui-boot:cu128-megapak-20251027
 # postgres:16.3-bullseye
 # redis:7.0-bullseye
 # jumpserver/core:v4.10.7-ce
@@ -21,3 +21,8 @@ yanwk/comfyui-boot:cu128-megapak-20251027
 # jumpserver/web:v4.10.7-ce
 # openmmlab/lmdeploy:v0.10.0-cu12
 # registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
+langgenius/dify-api:1.10.0
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-web:1.10.0
+semitechnologies/weaviate:1.27.0
+langgenius/dify-plugin-daemon:0.4.1-local
