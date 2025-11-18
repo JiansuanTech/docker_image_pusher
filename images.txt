@@ -1,7 +1,7 @@
 # ghcr.io/open-webui/open-webui:v0.6.33
 # louislam/dockge:1
-# hexdolemonai/lemon-runtime-sandbox:latest
-# hexdolemonai/lemon:latest
+hexdolemonai/lemon-runtime-sandbox:latest
+hexdolemonai/lemon:latest
 # vllm/vllm-openai:v0.11.0
 # lmsysorg/sglang:v0.4.10.post1-cu126
 # lmsysorg/sglang:dev
@@ -26,6 +26,6 @@
 # langgenius/dify-web:1.10.0
 # semitechnologies/weaviate:1.27.0
 # langgenius/dify-plugin-daemon:0.4.1-local
-nginx
-redis:6-alpine
-postgres:15-alpine
+# nginx
+# redis:6-alpine
+# postgres:15-alpine
