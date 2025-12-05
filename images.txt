@@ -1,8 +1,9 @@
 # ghcr.io/open-webui/open-webui:v0.6.33
 # louislam/dockge:1
-hexdolemonai/lemon-runtime-sandbox:latest
-hexdolemonai/lemon:latest
-# vllm/vllm-openai:v0.11.0
+# hexdolemonai/lemon-runtime-sandbox:latest
+# hexdolemonai/lemon:latest
+vllm/vllm-openai:v0.11.2
+vllm/vllm-openai:v0.12.0
 # lmsysorg/sglang:v0.4.10.post1-cu126
 # lmsysorg/sglang:dev
 # ghcr.io/ggml-org/llama.cpp:full-cuda
