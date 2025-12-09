@@ -1,4 +1,4 @@
-ghcr.io/open-webui/open-webui:v0.6.41
+# ghcr.io/open-webui/open-webui:v0.6.41
 
 # louislam/dockge:1
 
@@ -33,12 +33,13 @@ ghcr.io/open-webui/open-webui:v0.6.41
 # openmmlab/lmdeploy:v0.10.0-cu12
 # registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
 
-langgenius/dify-api:1.10.1-fix.1
+busybox
+# langgenius/dify-api:1.10.1-fix.1
 # langgenius/dify-sandbox:0.2.12
-langgenius/dify-web:1.10.1-fix.1
+# langgenius/dify-web:1.10.1-fix.1
 # semitechnologies/weaviate:1.27.0
 # langgenius/dify-plugin-daemon:0.4.1-local
-nginx
-ubuntu/squid
+# nginx
+# ubuntu/squid
 # redis:6-alpine
 # postgres:15-alpine
