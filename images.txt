@@ -33,7 +33,7 @@
 # openmmlab/lmdeploy:v0.10.0-cu12
 # registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
 
-busybox
+# busybox
 # langgenius/dify-api:1.10.1-fix.1
 # langgenius/dify-sandbox:0.2.12
 # langgenius/dify-web:1.10.1-fix.1
@@ -43,3 +43,5 @@ busybox
 # ubuntu/squid
 # redis:6-alpine
 # postgres:15-alpine
+
+nvcr.io/nvidia/pytorch:25.11-py3
