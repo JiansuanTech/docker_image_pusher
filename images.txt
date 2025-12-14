@@ -1,3 +1,4 @@
+gitpod/openvscode-server
 # ghcr.io/open-webui/open-webui:v0.6.41
 
 # louislam/dockge:1
@@ -42,6 +43,6 @@
 # ubuntu/squid
 # redis:6-alpine
 # postgres:15-alpine
-mailhog/mailhog
+# mailhog/mailhog
 
 # nvcr.io/nvidia/pytorch:25.11-py3
