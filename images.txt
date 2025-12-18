@@ -9,7 +9,7 @@
 # vllm/vllm-openai:nightly
 
 # lmsysorg/sglang:v0.5.6.post1-cu130-amd64-runtime
-lmsysorg/sglang:dev
+lmsysorg/sglang:nightly-dev-20251218-d20699a3
 
 # ghcr.io/ggml-org/llama.cpp:full-cuda
 # ghcr.io/ggml-org/llama.cpp:server-cuda
