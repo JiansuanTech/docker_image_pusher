@@ -1,4 +1,4 @@
-gitpod/openvscode-server
+# gitpod/openvscode-server
 # ghcr.io/open-webui/open-webui:v0.6.41
 
 # louislam/dockge:1
@@ -9,7 +9,7 @@ gitpod/openvscode-server
 # vllm/vllm-openai:nightly
 
 # lmsysorg/sglang:v0.5.6.post1-cu130-amd64-runtime
-# lmsysorg/sglang:dev
+lmsysorg/sglang:dev
 
 # ghcr.io/ggml-org/llama.cpp:full-cuda
 # ghcr.io/ggml-org/llama.cpp:server-cuda
