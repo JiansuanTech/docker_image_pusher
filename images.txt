@@ -9,7 +9,7 @@
 # openresty/openresty:alpine
 
 #vllm/vllm-openai:nightly
-#vllm/vllm-openai:v0.14.1
+vllm/vllm-openai:v0.15.0
 
 # lmsysorg/sglang:v0.5.6.post1-cu130-amd64-runtime
 # lmsysorg/sglang:dev
