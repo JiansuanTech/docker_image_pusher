@@ -11,13 +11,13 @@
 #vllm/vllm-openai:nightly
 #vllm/vllm-openai:v0.15.0
 
-ghcr.io/berriai/litellm:main-latest
+#ghcr.io/berriai/litellm:main-latest
 
 # lmsysorg/sglang:v0.5.6.post1-cu130-amd64-runtime
 # lmsysorg/sglang:dev
 
 # ghcr.io/ggml-org/llama.cpp:full-cuda
-#ghcr.io/ggml-org/llama.cpp:server-cuda
+ghcr.io/ggml-org/llama.cpp:server-cuda
 
 # nvidia/cuda:12.8.1-devel-ubuntu24.04
 # nvidia/cuda:12.1.0-devel-ubuntu22.04
