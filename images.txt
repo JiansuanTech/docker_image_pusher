@@ -9,12 +9,12 @@
 # openresty/openresty:alpine
 
 #vllm/vllm-openai:nightly
-vllm/vllm-openai:v0.16.0
+vllm/vllm-openai:v0.17.1
 
 #ghcr.io/berriai/litellm:main-latest
 
-lmsysorg/sglang:v0.5.9
-# lmsysorg/sglang:dev
+# lmsysorg/sglang:v0.5.9
+lmsysorg/sglang:dev
 
 # ghcr.io/ggml-org/llama.cpp:full-cuda
 #ghcr.io/ggml-org/llama.cpp:server-cuda
