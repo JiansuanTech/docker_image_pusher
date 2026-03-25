@@ -8,17 +8,18 @@
 
 # openresty/openresty:alpine
 
-#vllm/vllm-openai:nightly
-vllm/vllm-openai:v0.18.0
+# vllm/vllm-openai:nightly
+# vllm/vllm-openai:v0.18.0
 
-#ghcr.io/berriai/litellm:main-latest
+# ghcr.io/berriai/litellm:main-latest
 
 # lmsysorg/sglang:v0.5.9
-lmsysorg/sglang:dev
+# lmsysorg/sglang:dev
 
 # ghcr.io/ggml-org/llama.cpp:full-cuda
 # ghcr.io/ggml-org/llama.cpp:server-cuda
 # ghcr.io/openclaw/openclaw:latest
+docker/dockerfile:1.7
 
 # nvidia/cuda:12.8.1-devel-ubuntu24.04
 # nvidia/cuda:12.1.0-devel-ubuntu22.04
