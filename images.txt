@@ -1,5 +1,5 @@
 # gitpod/openvscode-server
-# ghcr.io/open-webui/open-webui:v0.6.41
+ghcr.io/open-webui/open-webui:v0.8.12
 
 # louislam/dockge:1
 
@@ -17,7 +17,7 @@
 # lmsysorg/sglang:dev
 
 # ghcr.io/ggml-org/llama.cpp:full-cuda
-ghcr.io/ggml-org/llama.cpp:server-cuda
+# ghcr.io/ggml-org/llama.cpp:server-cuda
 
 ghcr.io/openclaw/openclaw:latest
 nousresearch/hermes-agent:latest
