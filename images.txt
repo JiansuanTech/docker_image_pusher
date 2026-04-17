@@ -1,5 +1,5 @@
 # gitpod/openvscode-server
-ghcr.io/open-webui/open-webui:v0.8.12
+# ghcr.io/open-webui/open-webui:v0.8.12
 
 # louislam/dockge:1
 
@@ -20,7 +20,7 @@ ghcr.io/open-webui/open-webui:v0.8.12
 # ghcr.io/ggml-org/llama.cpp:server-cuda
 
 ghcr.io/openclaw/openclaw:latest
-nousresearch/hermes-agent:latest
+# nousresearch/hermes-agent:latest
 
 # docker/dockerfile:1.7
 # debian:bookworm-slim@sha256:98f4b71de414932439ac6ac690d7060df1f27161073c5036a7553723881bffbe
