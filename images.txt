@@ -8,19 +8,21 @@ ghcr.io/open-webui/open-webui
 
 # openresty/openresty:alpine
 
-vllm/vllm-openai:nightly
-vllm/vllm-openai
+#vllm/vllm-openai:nightly
+#vllm/vllm-openai
 
 # ghcr.io/berriai/litellm:main-latest
 
-lmsysorg/sglang
-lmsysorg/sglang:dev
+#lmsysorg/sglang
+#lmsysorg/sglang:dev
 
 # ghcr.io/ggml-org/llama.cpp:full-cuda
-ghcr.io/ggml-org/llama.cpp:server-cuda
+#ghcr.io/ggml-org/llama.cpp:server-cuda
 
-ghcr.io/openclaw/openclaw:latest
-nousresearch/hermes-agent:latest
+#ghcr.io/openclaw/openclaw:latest
+#nousresearch/hermes-agent:latest
+
+searxng/searxng:latest
 
 # docker/dockerfile:1.7
 # debian:bookworm-slim@sha256:98f4b71de414932439ac6ac690d7060df1f27161073c5036a7553723881bffbe
