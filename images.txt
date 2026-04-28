@@ -1,5 +1,5 @@
 #gitpod/openvscode-server
-ghcr.io/open-webui/open-webui
+#ghcr.io/open-webui/open-webui
 
 # louislam/dockge:1
 
@@ -22,13 +22,13 @@ ghcr.io/open-webui/open-webui
 #ghcr.io/openclaw/openclaw:latest
 #nousresearch/hermes-agent:latest
 
-searxng/searxng:latest
+#searxng/searxng:latest
 
 # docker/dockerfile:1.7
 # debian:bookworm-slim@sha256:98f4b71de414932439ac6ac690d7060df1f27161073c5036a7553723881bffbe
 
-# nvidia/cuda:12.8.1-devel-ubuntu24.04
-# nvidia/cuda:12.1.0-devel-ubuntu22.04
+#nvidia/cuda:12.8.1-devel-ubuntu24.04
+nvidia/cuda:12.8.1-runtime-ubuntu24.04
 
 # dataelement/bisheng-backend:v2.0.2
 # dataelement/bisheng-frontend:v2.0.2
