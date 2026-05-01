@@ -17,18 +17,18 @@
 #lmsysorg/sglang:dev
 
 # ghcr.io/ggml-org/llama.cpp:full-cuda
-#ghcr.io/ggml-org/llama.cpp:server-cuda
+ghcr.io/ggml-org/llama.cpp:server-cuda
 
-#ghcr.io/openclaw/openclaw:latest
-#nousresearch/hermes-agent:latest
+ghcr.io/openclaw/openclaw:latest
+nousresearch/hermes-agent:latest
 
-#searxng/searxng:latest
+searxng/searxng:latest
 
 # docker/dockerfile:1.7
 # debian:bookworm-slim@sha256:98f4b71de414932439ac6ac690d7060df1f27161073c5036a7553723881bffbe
 
-nvidia/cuda:13.2.1-devel-ubuntu24.04
-nvidia/cuda:13.2.1-runtime-ubuntu24.04
+#nvidia/cuda:13.2.1-devel-ubuntu24.04
+#nvidia/cuda:13.2.1-runtime-ubuntu24.04
 
 # dataelement/bisheng-backend:v2.0.2
 # dataelement/bisheng-frontend:v2.0.2
