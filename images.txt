@@ -17,10 +17,10 @@
 #lmsysorg/sglang:dev
 
 # ghcr.io/ggml-org/llama.cpp:full-cuda
-#ghcr.io/ggml-org/llama.cpp:server-cuda
+ghcr.io/ggml-org/llama.cpp:server-cuda
 
-ghcr.io/openclaw/openclaw:2026.4.27
-#nousresearch/hermes-agent:latest
+# ghcr.io/openclaw/openclaw:2026.4.27
+nousresearch/hermes-agent:latest
 
 #searxng/searxng:latest
 #nicolargo/glances:ubuntu-latest-full 
