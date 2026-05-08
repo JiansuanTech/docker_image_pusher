@@ -20,7 +20,7 @@
 ghcr.io/ggml-org/llama.cpp:server-cuda
 
 # ghcr.io/openclaw/openclaw:2026.4.27
-nousresearch/hermes-agent:latest
+--platform=linux/arm64 nousresearch/hermes-agent:latest
 
 #searxng/searxng:latest
 #nicolargo/glances:ubuntu-latest-full 
@@ -60,3 +60,4 @@ nousresearch/hermes-agent:latest
 # mailhog/mailhog
 
 # nvcr.io/nvidia/pytorch:25.11-py3
+
