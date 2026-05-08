@@ -17,12 +17,17 @@
 #lmsysorg/sglang:dev
 
 # ghcr.io/ggml-org/llama.cpp:full-cuda
-ghcr.io/ggml-org/llama.cpp:server-cuda
+
+# ghcr.io/ggml-org/llama.cpp:server-cuda
+--platform=linux/arm64  ghcr.io/ggml-org/llama.cpp:server
 
 # ghcr.io/openclaw/openclaw:2026.4.27
+# nousresearch/hermes-agent:latest
 --platform=linux/arm64 nousresearch/hermes-agent:latest
 
 #searxng/searxng:latest
+--platform=linux/arm64  searxng/searxng:latest
+
 #nicolargo/glances:ubuntu-latest-full 
 
 # docker/dockerfile:1.7
