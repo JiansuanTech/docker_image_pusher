@@ -9,7 +9,7 @@
 # openresty/openresty:alpine
 
 #vllm/vllm-openai:nightly
-vllm/vllm-openai
+#vllm/vllm-openai
 
 # ghcr.io/berriai/litellm:main-latest
 
@@ -35,6 +35,9 @@ vllm/vllm-openai
 
 #nvidia/cuda:13.2.1-devel-ubuntu24.04
 #nvidia/cuda:13.2.1-runtime-ubuntu24.04
+nvidia/cuda:12.8.1-devel-ubuntu24.04
+nvidia/cuda:12.8.1-runtime-ubuntu24.04
+
 
 # dataelement/bisheng-backend:v2.0.2
 # dataelement/bisheng-frontend:v2.0.2
