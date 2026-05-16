@@ -22,8 +22,8 @@
 #--platform=linux/arm64  ghcr.io/ggml-org/llama.cpp:server
 
 # ghcr.io/openclaw/openclaw:2026.4.27
-# nousresearch/hermes-agent:latest
-#--platform=linux/arm64 nousresearch/hermes-agent:latest
+nousresearch/hermes-agent:latest
+--platform=linux/arm64 nousresearch/hermes-agent:latest
 
 #searxng/searxng:latest
 #--platform=linux/arm64  searxng/searxng:latest
@@ -35,8 +35,8 @@
 
 #nvidia/cuda:13.2.1-devel-ubuntu24.04
 #nvidia/cuda:13.2.1-runtime-ubuntu24.04
-nvidia/cuda:12.8.1-devel-ubuntu24.04
-nvidia/cuda:12.8.1-runtime-ubuntu24.04
+#nvidia/cuda:12.8.1-devel-ubuntu24.04
+#nvidia/cuda:12.8.1-runtime-ubuntu24.04
 
 
 # dataelement/bisheng-backend:v2.0.2
