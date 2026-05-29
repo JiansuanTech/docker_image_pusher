@@ -1,5 +1,5 @@
 #gitpod/openvscode-server
-#ghcr.io/open-webui/open-webui
+ghcr.io/open-webui/open-webui
 
 # louislam/dockge:1
 
@@ -17,13 +17,14 @@
 
 #lmsysorg/sglang
 
-#ghcr.io/ggml-org/llama.cpp:server-cuda
+ghcr.io/ggml-org/llama.cpp:server-cuda
 #--platform=linux/arm64  ghcr.io/ggml-org/llama.cpp:server
 
 #ghcr.io/openclaw/openclaw
-#nousresearch/hermes-agent
+
+nousresearch/hermes-agent
 #--platform=linux/arm64 nousresearch/hermes-agent
-nikolaik/python-nodejs:python3.11-nodejs20
+#nikolaik/python-nodejs:python3.11-nodejs20
 
 #searxng/searxng:latest
 #--platform=linux/arm64  searxng/searxng:latest
