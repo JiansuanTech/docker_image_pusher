@@ -2,16 +2,16 @@
 
 # openresty/openresty:alpine
 
-# vllm/vllm-openai
-prom/prometheus
-grafana/grafana
+vllm/vllm-openai
+# prom/prometheus
+# grafana/grafana
 
 # lmsysorg/sglang
 
-#ghcr.io/ggml-org/llama.cpp:server-cuda
+ghcr.io/ggml-org/llama.cpp:server-cuda
 #--platform=linux/arm64  ghcr.io/ggml-org/llama.cpp:server
 
-# nousresearch/hermes-agent
+nousresearch/hermes-agent
 # --platform=linux/arm64 nousresearch/hermes-agent
 
 # searxng/searxng:latest
