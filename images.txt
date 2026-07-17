@@ -40,3 +40,7 @@ nousresearch/hermes-agent
 
 # nvcr.io/nvidia/pytorch:25.11-py3
 
+calciumion/new-api
+redis:latest
+postgres:15
+
