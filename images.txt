@@ -6,7 +6,7 @@ vllm/vllm-openai
 # prom/prometheus
 # grafana/grafana
 
-# lmsysorg/sglang
+lmsysorg/sglang
 
 ghcr.io/ggml-org/llama.cpp:server-cuda
 #--platform=linux/arm64  ghcr.io/ggml-org/llama.cpp:server
