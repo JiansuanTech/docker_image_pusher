@@ -3,13 +3,13 @@
 # openresty/openresty:alpine
 
 
-vllm/vllm-openai
+#vllm/vllm-openai
 
-grafana/grafana
+#grafana/grafana
 
-lmsysorg/sglang
+#lmsysorg/sglang
 
-ghcr.io/ggml-org/llama.cpp:server-cuda
+#ghcr.io/ggml-org/llama.cpp:server-cuda
 #--platform=linux/arm64  ghcr.io/ggml-org/llama.cpp:server
 
 nousresearch/hermes-agent
@@ -41,11 +41,11 @@ nousresearch/hermes-agent
 
 # nvcr.io/nvidia/pytorch:25.11-py3
 
-calciumion/new-api
-redis:latest
-postgres:15
+#calciumion/new-api
+#redis:latest
+#postgres:15
 
 ghcr.io/berriai/litellm
-postgres:16
-prom/prometheus
+#postgres:16
+#prom/prometheus
 
