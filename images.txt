@@ -45,7 +45,9 @@ nousresearch/hermes-agent
 #redis:latest
 #postgres:15
 
-ghcr.io/berriai/litellm
+#ghcr.io/berriai/litellm
 #postgres:16
 #prom/prometheus
+
+amir20/dozzle
 
