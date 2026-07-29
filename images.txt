@@ -45,7 +45,7 @@ calciumion/new-api
 redis:latest
 postgres:15
 
-docker.litellm.ai/berriai/litellm:main-stable
+ghcr.io/berriai/litellm
 postgres:16
 prom/prometheus
 
