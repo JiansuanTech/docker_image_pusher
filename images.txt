@@ -49,5 +49,7 @@ nousresearch/hermes-agent
 #postgres:16
 #prom/prometheus
 
-amir20/dozzle
+#amir20/dozzle
+
+nvcr.io/nvidia/k8s/dcgm-exporter:4.6.0-4.8.3-distroless
 
