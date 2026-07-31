@@ -1,30 +1,23 @@
-# ghcr.io/open-webui/open-webui
-
 # openresty/openresty:alpine
 
-#vllm/vllm-openai
+# vllm/vllm-openai
 
-#grafana/grafana
+# grafana/grafana
+# prom/prometheus
 
-#lmsysorg/sglang
+# lmsysorg/sglang
 
-#ghcr.io/ggml-org/llama.cpp:server-cuda
-#--platform=linux/arm64  ghcr.io/ggml-org/llama.cpp:server
+# ghcr.io/ggml-org/llama.cpp:server-cuda
+# --platform=linux/arm64  ghcr.io/ggml-org/llama.cpp:server
 
 nousresearch/hermes-agent
 # --platform=linux/arm64 nousresearch/hermes-agent
 
-# searxng/searxng:latest
+searxng/searxng:latest
 # --platform=linux/arm64  searxng/searxng:latest
 
 # nvidia/cuda:13.2.1-devel-ubuntu24.04
 # nvidia/cuda:13.2.1-runtime-ubuntu24.04
-# nvidia/cuda:12.8.1-devel-ubuntu24.04
-# nvidia/cuda:12.8.1-runtime-ubuntu24.04
-
-# yanwk/comfyui-boot:cu128-megapak-20251027
-
-# registry.cn-hangzhou.aliyuncs.com/funasr_repo/funasr:funasr-runtime-sdk-online-cpu-0.1.13
 
 # busybox
 # langgenius/dify-api:1.10.1-fix.1
@@ -38,17 +31,11 @@ nousresearch/hermes-agent
 # postgres:15-alpine
 # mailhog/mailhog
 
-# nvcr.io/nvidia/pytorch:25.11-py3
 
-#calciumion/new-api
-#redis:latest
-#postgres:15
+# calciumion/new-api
+# redis:latest
+# postgres:15
 
-#ghcr.io/berriai/litellm
-#postgres:16
-#prom/prometheus
+# amir20/dozzle
 
-#amir20/dozzle
-
-nvcr.io/nvidia/k8s/dcgm-exporter:4.6.0-4.8.3-distroless
-
+# nvcr.io/nvidia/k8s/dcgm-exporter:4.6.0-4.8.3-distroless
