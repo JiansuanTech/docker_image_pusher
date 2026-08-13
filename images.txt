@@ -1,6 +1,6 @@
 # openresty/openresty:alpine
 
-vllm/vllm-openai
+# vllm/vllm-openai
 
 # grafana/grafana
 # prom/prometheus
@@ -39,3 +39,5 @@ searxng/searxng:latest
 # amir20/dozzle
 
 # nvcr.io/nvidia/k8s/dcgm-exporter:4.6.0-4.8.3-distroless
+
+ghcr.io/huggingface/text-embeddings-inference:cpu-ipex-latest
