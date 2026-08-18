@@ -13,7 +13,7 @@
 # nousresearch/hermes-agent
 # --platform=linux/arm64 nousresearch/hermes-agent
 
-searxng/searxng:latest
+# searxng/searxng:latest
 # --platform=linux/arm64  searxng/searxng:latest
 
 # nvidia/cuda:13.2.1-devel-ubuntu24.04
