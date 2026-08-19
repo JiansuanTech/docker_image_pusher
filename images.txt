@@ -36,10 +36,12 @@
 # redis:latest
 # postgres:15
 
-dpage/pgadmin4
+# dpage/pgadmin4
 
 # amir20/dozzle
 
 # nvcr.io/nvidia/k8s/dcgm-exporter:4.6.0-4.8.3-distroless
 
 # ghcr.io/huggingface/text-embeddings-inference:cpu-ipex-latest
+
+ghcr.io/docker-mailserver/docker-mailserver
