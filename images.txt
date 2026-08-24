@@ -44,4 +44,6 @@
 
 # ghcr.io/huggingface/text-embeddings-inference:cpu-ipex-latest
 
-ghcr.io/docker-mailserver/docker-mailserver
+#ghcr.io/docker-mailserver/docker-mailserver
+
+sonatype/nexus3
