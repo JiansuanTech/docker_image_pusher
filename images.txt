@@ -1,14 +1,14 @@
 # openresty/openresty:alpine
 
-# vllm/vllm-openai
+vllm/vllm-openai
 
 # grafana/grafana
 # prom/prometheus
 
 # lmsysorg/sglang
 
-#lmsysorg/sgl-model-gateway
-docker.litellm.ai/berriai/litellm
+# lmsysorg/sgl-model-gateway
+# docker.litellm.ai/berriai/litellm
 
 # ghcr.io/ggml-org/llama.cpp:server-cuda
 # --platform=linux/arm64  ghcr.io/ggml-org/llama.cpp:server
