@@ -6,6 +6,7 @@
 # prom/prometheus
 
 # lmsysorg/sglang
+lmsysorg/sglang:dev-dsv41 
 
 # lmsysorg/sgl-model-gateway
 # docker.litellm.ai/berriai/litellm
@@ -46,7 +47,7 @@
 # nvcr.io/nvidia/k8s/dcgm-exporter:4.6.0-4.8.3-distroless
 
 # ghcr.io/huggingface/text-embeddings-inference:cpu-ipex-latest
-ghcr.io/huggingface/text-embeddings-inference:cpu-latest
+#ghcr.io/huggingface/text-embeddings-inference:cpu-latest
 
 #ghcr.io/docker-mailserver/docker-mailserver
 
