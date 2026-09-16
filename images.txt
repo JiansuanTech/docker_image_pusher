@@ -1,12 +1,13 @@
 # openresty/openresty:alpine
 
 #vllm/vllm-openai
+vllm/vllm-openai:deepseekv41-flash-0909
 
 # grafana/grafana
 # prom/prometheus
 
 # lmsysorg/sglang
-lmsysorg/sglang:dev-dsv41 
+# lmsysorg/sglang:dev-dsv41 
 
 # lmsysorg/sgl-model-gateway
 # docker.litellm.ai/berriai/litellm
