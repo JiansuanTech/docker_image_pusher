@@ -1,7 +1,7 @@
 # openresty/openresty:alpine
 
 #vllm/vllm-openai
-vllm/vllm-openai:deepseekv41-flash-0909
+#vllm/vllm-openai:deepseekv41-flash-0909
 
 # grafana/grafana
 # prom/prometheus
@@ -37,7 +37,7 @@ vllm/vllm-openai:deepseekv41-flash-0909
 # mailhog/mailhog
 
 
-# calciumion/new-api
+calciumion/new-api
 # redis:latest
 # postgres:15
 
