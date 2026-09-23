@@ -1,6 +1,6 @@
 # openresty/openresty:alpine
 
-vllm/vllm-openai
+vllm/vllm-openai:v0.30.0
 
 # grafana/grafana
 # prom/prometheus
