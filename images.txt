@@ -1,11 +1,11 @@
 # openresty/openresty:alpine
 
-vllm/vllm-openai:v0.30.0
+#vllm/vllm-openai
 
 # grafana/grafana
 # prom/prometheus
 
-# lmsysorg/sglang
+lmsysorg/sglang
 # lmsysorg/sglang:dev-dsv41 
 
 # lmsysorg/sgl-model-gateway
