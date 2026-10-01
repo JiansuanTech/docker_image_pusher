@@ -5,7 +5,7 @@
 # grafana/grafana
 # prom/prometheus
 
-lmsysorg/sglang
+#lmsysorg/sglang
 # lmsysorg/sglang:dev-dsv41 
 
 # lmsysorg/sgl-model-gateway
@@ -36,7 +36,7 @@ lmsysorg/sglang
 # mailhog/mailhog
 
 
-# calciumion/new-api
+calciumion/new-api
 # redis:latest
 # postgres:15
 
