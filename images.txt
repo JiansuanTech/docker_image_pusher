@@ -1,11 +1,11 @@
 # openresty/openresty:alpine
 
-#vllm/vllm-openai
+# vllm/vllm-openai
 
 # grafana/grafana
 # prom/prometheus
 
-lmsysorg/sglang
+# lmsysorg/sglang
 # lmsysorg/sglang:dev-dsv41 
 
 # lmsysorg/sgl-model-gateway
@@ -14,8 +14,8 @@ lmsysorg/sglang
 # ghcr.io/ggml-org/llama.cpp:server-cuda
 # --platform=linux/arm64  ghcr.io/ggml-org/llama.cpp:server
 
-# nousresearch/hermes-agent
-# --platform=linux/arm64 nousresearch/hermes-agent
+nousresearch/hermes-agent
+--platform=linux/arm64 nousresearch/hermes-agent
 
 # searxng/searxng:latest
 # --platform=linux/arm64  searxng/searxng:latest
@@ -47,8 +47,8 @@ lmsysorg/sglang
 # nvcr.io/nvidia/k8s/dcgm-exporter:4.6.0-4.8.3-distroless
 
 # ghcr.io/huggingface/text-embeddings-inference:cpu-ipex-latest
-#ghcr.io/huggingface/text-embeddings-inference:cpu-latest
+# ghcr.io/huggingface/text-embeddings-inference:cpu-latest
 
-#ghcr.io/docker-mailserver/docker-mailserver
+# ghcr.io/docker-mailserver/docker-mailserver
 
-#sonatype/nexus3
+# sonatype/nexus3
