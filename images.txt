@@ -6,14 +6,15 @@
 # prom/prometheus
 
 # lmsysorg/sglang
-# lmsysorg/sglang:dev-dsv41 
-lmsysorg/sglang@sha256:c4ca651192e57e91989b5176c3665148131b9a171e53861dee87f5e57cef25b5
+# lmsysorg/sglang@sha256:c4ca651192e57e91989b5176c3665148131b9a171e53861dee87f5e57cef25b5
 
 # lmsysorg/sgl-model-gateway
 # docker.litellm.ai/berriai/litellm
 
 # ghcr.io/ggml-org/llama.cpp:server-cuda
 # --platform=linux/arm64  ghcr.io/ggml-org/llama.cpp:server
+
+osmanturan/strata
 
 # nousresearch/hermes-agent
 # --platform=linux/arm64 nousresearch/hermes-agent
