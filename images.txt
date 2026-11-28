@@ -14,7 +14,7 @@
 # ghcr.io/ggml-org/llama.cpp:server-cuda
 # --platform=linux/arm64  ghcr.io/ggml-org/llama.cpp:server
 
-osmanturan/strata
+#osmanturan/strata
 
 # nousresearch/hermes-agent
 # --platform=linux/arm64 nousresearch/hermes-agent
@@ -52,5 +52,7 @@ osmanturan/strata
 # ghcr.io/huggingface/text-embeddings-inference:cpu-latest
 
 # ghcr.io/docker-mailserver/docker-mailserver
+
+pytorch/pytorch:2.15.0-cuda13.4-cudnn9-devel
 
 # sonatype/nexus3
